@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS and PYTHON
 - 📫 Como entrar em contato comigo, pode ser por email: willianthesouza@gmail.com
 
-
+<br>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
