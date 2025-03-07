@@ -1,6 +1,6 @@
 # OLÁ, SOU O WILLIAN, ESTUDANTE E DEV
 - 👀 Estou interessado em desenvolvimento front end
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS and PYTHON
+- 🌱 Atualmente estou aprendendo HTML, CSS e JS
 - 📫 Como entrar em contato comigo, pode ser por email: willianthesouza@gmail.com
 
 <br>
